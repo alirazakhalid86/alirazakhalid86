@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alirazakhalid86
+- 👋 Hi, I’m Ali Raza
 - 👀 I’m interested in ... Developing Shopify, Wordpress Websites, SEO-Marketing
 - 🌱 I’m currently learning ... About development of website's 
 - 💞️ I’m looking to collaborate on ... 
